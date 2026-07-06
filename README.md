@@ -6,7 +6,7 @@
 
 By leveraging A2UI (Agent-to-UI), Memoir breaks out of the terminal and generates a beautiful, interactive "Digital Scrapbook" aesthetic dynamically:
 
-![Memoir Digital Scrapbook UI](/Users/avyukt/.gemini/antigravity-ide/brain/e9ffcd45-5b99-48f3-a974-fbf4185ea769/memoir_wireframe_1783346095616.png)
+![Memoir Digital Scrapbook UI](./assets/memoir_wireframe.png)
 
 ## Architecture & "Wow Factor" Features
 
